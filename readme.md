@@ -3,7 +3,7 @@
 My NodeSchool Workshoppers completion list.
 
 ## Core
-- [ ] javascripting
+- [x] javascripting
 - [ ] learnyounode
 - [x] git-it
 - [ ] How to npm
