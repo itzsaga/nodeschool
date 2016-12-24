@@ -7,7 +7,7 @@ My NodeSchool Workshoppers completion list.
 - [ ] learnyounode
 - [x] git-it
 - [ ] How to npm
-- [ ] Scopes Chains & Closures
+- [x] Scopes Chains & Closures
 - [ ] Elementary Electron
 - [ ] stream-adventure
 - [x] how-to-markdown
